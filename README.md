@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/thecarlosxyz">
-<img src="https://raw.githubusercontent.com/TheCarlosXYZ/TheCarlosXYZ/main/banner.jpg" alt="Banner de mi perfil" />
+<img src="https://raw.githubusercontent.com/TheCarlosXYZ/TheCarlosXYZ/main/miku.jpg" alt="Banner de mi perfil" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/TheCarlosXYZ?label=Follow&style=social)](https://github.com/TheCarlosXYZ)
@@ -13,9 +13,9 @@
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🌱 Actualmente inmerso en el mundo de **Arch Linux**, fascinado por la elegancia de **Hyprland** y siempre en busca de **Dotfiles** inspiradores como **HyDE**, **HyprLuna** y **End-4 dots**.
 
-💻 Passionately building an **Arch Installer** project. 
+💻 Construyendo apasionadamente un proyecto de **Arch Installer**.
 
 
 <div align="Center">
@@ -52,13 +52,13 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| TheCarlosXYZ's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![TheCarlosXYZ's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![TheCarlosXYZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
@@ -70,7 +70,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:carlosjoseponce@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
