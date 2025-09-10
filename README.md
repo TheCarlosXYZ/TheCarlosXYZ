@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/thecarlosxyz">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://raw.githubusercontent.com/TheCarlosXYZ/TheCarlosXYZ/main/banner.jpg" alt="Banner de mi perfil" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/TheCarlosXYZ?label=Follow&style=social)](https://github.com/TheCarlosXYZ)
