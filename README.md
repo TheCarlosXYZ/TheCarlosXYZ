@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/thecarlosxyz">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/TheCarlosXYZ)
 </div>
 
 
