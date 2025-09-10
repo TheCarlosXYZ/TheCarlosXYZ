@@ -76,5 +76,5 @@
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
+Credit: [TheCarlosXYZ](https://github.com/TheCarlosXYZ)
 Last Edited on: 12/04/2005
