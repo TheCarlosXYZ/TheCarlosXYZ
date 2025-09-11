@@ -54,7 +54,7 @@
 
 | TheCarlosXYZ's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![TheCarlosXYZ's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![TheCarlosXYZ's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![TheCarlosXYZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
@@ -77,4 +77,4 @@
 ------
 
 Credit: [TheCarlosXYZ](https://github.com/TheCarlosXYZ)
-Last Edited on: 12/04/2005
+Last Edited on: 12/04/2025
