@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://raw.githubusercontent.com/TheCarlosXYZ/TheCarlosXYZ/main/miku.jpg"> </p>
 
 <div>
 
@@ -41,6 +41,6 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
+Credit: [TheCarlosXYZ](https://github.com/TheCarlosXYZ)
 
 Last Edited on: 16/9/2025
